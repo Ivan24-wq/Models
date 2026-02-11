@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Electron")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31d1086743c119664cb1039989638f0f926a0c6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fe211eceb5a685cb4ed0d60ddec53f99da9bc75")]
 [assembly: System.Reflection.AssemblyProductAttribute("Electron")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Electron")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
