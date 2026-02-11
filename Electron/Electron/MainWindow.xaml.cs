@@ -20,5 +20,8 @@ namespace Electron
         {
             InitializeComponent();
         }
+
+        //Функция графика
+        void function
     }
 }
