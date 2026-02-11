@@ -19,18 +19,6 @@ namespace Electron
         public MainWindow()
         {
             InitializeComponent();
-
-            this.Loaded += (s, e) =>
-            {
-                int[] x = {-5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5};
-                int[] y = { 25, 16, 9, 4, 1, 0, 1,  4, 9, 16, 25 };
-
-                double[] xd = x.Select(v => (double)v).ToArray();
-                double[] yd = y.Select(v => (double)v).ToArray();
-
-                Canvas.Plot.Add.Scatter(xd, yd);
-                Canvas.Refresh();
-            };
         }
 
     }

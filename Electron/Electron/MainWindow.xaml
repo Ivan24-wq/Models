@@ -6,8 +6,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Electron"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Математическая модель" Height="450" Width="800">
     <Grid>
-        <ScottPlot:WpfPlot x:Name="Canvas"/>
+        <Label Content="Математическая модель движения релятивистской &#xD;&#xA;заряженной частицы в заданном неоднородном электрическом поле" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Height="69" Width="604" FontSize="18" FontFamily="Times New Roman"/>
+
     </Grid>
 </Window>
