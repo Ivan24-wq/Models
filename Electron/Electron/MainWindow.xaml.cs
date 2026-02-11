@@ -22,6 +22,9 @@ namespace Electron
         }
 
         //Функция графика
-        void function
+        public void Hello()
+        {
+            Console.WriteLine("Привет");
+        }
     }
 }
